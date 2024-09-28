@@ -622,7 +622,7 @@ a:hover {
         height: 5px; 
     }
      .project{
-        padding: 20%;
+        padding: 10%;
         height:auto;
         margin-top:60px;
     }
@@ -641,7 +641,7 @@ a:hover {
        font-size:30px;
 }
     .contact{
-       padding:20%;
+       padding:10%;
        margin: 30px 30px 50px;
        justify-content:center;
     }
